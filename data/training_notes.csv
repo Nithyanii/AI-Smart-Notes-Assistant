@@ -1,0 +1,300 @@
+text,category
+"My Python exam is on Friday at 10 AM",Education
+"Submit machine learning assignment before midnight",Education
+"Review lecture slides on neural networks and backpropagation",Education
+"Study group meeting at the university library on Wednesday",Education
+"Finish reading chapter 5 of data structures textbook",Education
+"Register for advanced statistics course next semester",Education
+"Prepare flashcards for biology midterm exam",Education
+"Attend online webinar on quantum computing basics",Education
+"Complete chemistry lab report and error analysis",Education
+"Ask professor about office hours for linear algebra doubt",Education
+"Watch tutorial on algorithms and dynamic programming",Education
+"Research paper presentation scheduled for next Thursday",Education
+"Borrow calculus reference book from campus library",Education
+"Write essay outline for English literature class",Education
+"Practice coding interview problems on binary trees",Education
+"Download syllabus for computer science capstone project",Education
+"Study for history final exam on European renaissance",Education
+"Submit master thesis proposal draft to supervisor",Education
+"Physics quiz on thermodynamics tomorrow morning at 9",Education
+"Solve practice problem sets for discrete mathematics",Education
+"Watch recorded video lecture on operating systems kernels",Education
+"Group study session on organic chemistry mechanisms",Education
+"Revise grammar rules and vocabulary for Spanish exam",Education
+"Complete peer review for classmate AI project report",Education
+"Prepare presentation slides for psychology term project",Education
+"Read research paper on transformer attention mechanisms",Education
+"Register for graduate seminar in robotics and automation",Education
+"Submit homework exercises for microeconomics chapter 4",Education
+"Take practice test for GRE verbal and quantitative section",Education
+"Meet academic advisor to discuss major degree requirements",Education
+"Review organic chemistry reaction mechanism diagrams",Education
+"Download past exam papers and solution keys for calculus",Education
+"Write literature review section for academic journal submission",Education
+"Attend campus career fair and resume workshop",Education
+"Complete online certification module on cloud architecture",Education
+"Study Spanish flashcards and conjugation tables",Education
+"Prepare quiz notes for international relations class",Education
+"Read assigned chapters on microeconomic policy and inflation",Education
+"Organize study schedule for upcoming semester finals",Education
+"Review peer critique notes on creative writing draft",Education
+"Prepare quarterly presentation for Monday client meeting",Work
+"Submit pull request for the API authentication gateway",Work
+"Follow up with design lead on Figma design system specs",Work
+"Quarterly performance review with engineering manager at 3 PM",Work
+"Deploy new frontend release to staging environment",Work
+"Review sales team pitch deck for enterprise prospect",Work
+"Sprint retrospective and backlog grooming with agile team",Work
+"Draft product requirements document for the new dashboard",Work
+"Schedule 1-on-1 sync with tech lead to discuss roadmap",Work
+"Fix critical production bug in payment webhook listener",Work
+"Conduct interview with senior backend developer candidate",Work
+"Update Jira ticket status and attach QA test results",Work
+"Send weekly status report to stakeholders and VP",Work
+"Organize team brainstorm session for upcoming hackathon",Work
+"Set up CI/CD pipeline on GitHub Actions for repository",Work
+"Review vendor contract and SLA terms with legal team",Work
+"Draft meeting minutes and action items from executive sync",Work
+"Write unit tests for user authentication service endpoints",Work
+"Review customer feedback tickets in Zendesk support queue",Work
+"Prepare slide deck for board of directors quarterly update",Work
+"Migrate database schema to PostgreSQL cloud instance",Work
+"Coordinate with marketing department for product launch rollout",Work
+"Conduct architectural design review for microservices migration",Work
+"Sign non-disclosure agreement for prospective enterprise client",Work
+"Review quarterly sales targets and revenue pipeline forecasts",Work
+"Audit server logs for security vulnerabilities and access tokens",Work
+"Email client about revised project delivery timeline",Work
+"Prepare agenda for weekly engineering all-hands meeting",Work
+"Debug slow database query causing API latency spike",Work
+"Review competitor analysis report shared by product marketing",Work
+"Set up Google Meet call with overseas outsourced QA team",Work
+"Draft job description for junior full-stack developer role",Work
+"Submit monthly team expense reimbursements via Expensify",Work
+"Test staging deployment before production release window",Work
+"Update corporate compliance training modules before deadline",Work
+"Finalize UX research interview guide for customer discovery",Work
+"Share quarterly OKR progress dashboard with executive leadership",Work
+"Call grandma this weekend",Personal
+"Meditate for 15 minutes before going to sleep",Personal
+"Plan weekend hiking trip with family in national park",Personal
+"Journal about thoughts, achievements, and weekly gratitude",Personal
+"Water the indoor plants and repot the fiddle leaf fig",Personal
+"Clean and declutter the living room bookshelf",Personal
+"Send birthday greetings and voice note to cousin",Personal
+"Practice acoustic guitar chords for 20 minutes",Personal
+"Sort through old wardrobe and donate clothes to charity",Personal
+"Organize digital photo album from last summer",Personal
+"Write letters to old high school friends",Personal
+"Take car for regular oil change and tire pressure check",Personal
+"Set up quiet reading corner in the bedroom",Personal
+"Spend quiet Sunday morning walking in the local botanical garden",Personal
+"Try out new sourdough bread baking recipe this afternoon",Personal
+"Deep clean kitchen cabinets and wipe down countertops",Personal
+"Call mom and dad to check in on their health",Personal
+"Practice mindfulness breathing exercises during lunch break",Personal
+"Pick up dry cleaning suits from neighborhood laundry",Personal
+"Fix leaky faucet in the bathroom with new rubber washer",Personal
+"Organize garage tools and storage cardboard boxes",Personal
+"Plan backyard barbecue cookout with childhood friends",Personal
+"Read 30 pages of mystery novel before bedtime",Personal
+"Watch family home videos from holiday vacation",Personal
+"Trim garden hedges and rake fallen autumn leaves",Personal
+"Schedule family game night for Sunday evening",Personal
+"Clean windows and wash balcony glass panels",Personal
+"Call brother to congratulate him on new apartment",Personal
+"Spend an hour sketching in sketchbook at the park",Personal
+"Dust bedroom furniture and change bed sheets",Personal
+"Take pet dog to grooming salon on Saturday afternoon",Personal
+"Back up family photos and videos to external hard drive",Personal
+"Unclog kitchen sink drain with hot water and baking soda",Personal
+"Organize wardrobe clothes by season and donate old sweaters",Personal
+"Send postcard to friend traveling abroad",Personal
+"Cook home-cooked lasagna dinner for family on Sunday",Personal
+"Repot succulent plants and add fresh potting soil",Personal
+"Write down weekly personal goals and self-reflection notes",Personal
+"Pay the electricity bill before the 28th",Finance
+"Review monthly credit card statement for suspicious charges",Finance
+"Transfer rent money to landlord bank account",Finance
+"Check dividend payouts and quarterly stock portfolio returns",Finance
+"Set aside emergency fund savings in high-yield account",Finance
+"File annual income tax return and gather deductions",Finance
+"Cancel unused streaming subscriptions before renewal date",Finance
+"Check balance in retirement 401k investment account",Finance
+"Calculate monthly budget and expense breakdown",Finance
+"Pay water utility bill and broadband internet bill",Finance
+"Consult financial advisor regarding mutual funds investment",Finance
+"Reimburse business travel expenses through corporate portal",Finance
+"Update household budget spreadsheet with recent grocery costs",Finance
+"Review mortgage interest rate options with local bank",Finance
+"Transfer surplus checking balance to savings account",Finance
+"Deposit salary paycheck into primary checking account",Finance
+"Review home insurance policy premium and deductibles",Finance
+"Set up automatic recurring payment for car loan monthly installment",Finance
+"Check credit score report on Experian dashboard",Finance
+"Compare savings account interest yields across online banks",Finance
+"Pay annual property tax installment to municipal county",Finance
+"Track weekly discretionary spending on dining out",Finance
+"Review capital gains tax on crypto investment transactions",Finance
+"Request credit card limit increase for upcoming major expenses",Finance
+"Rebalance index fund ETF allocation across global markets",Finance
+"Calculate expected retirement pension benefits and savings targets",Finance
+"Pay natural gas utility bill for winter heating",Finance
+"Pay tuition installment fee to university finance office",Finance
+"Check quarterly interest earned on certificates of deposit",Finance
+"Transfer money to brokerage account to buy index funds",Finance
+"Review life insurance term policy renewal notice",Finance
+"Audit recurring monthly debit charges on bank account",Finance
+"Apply for low-interest balance transfer credit card",Finance
+"Set up automatic monthly contributions to Roth IRA",Finance
+"Pay dental insurance copay invoice from clinic",Finance
+"Check exchange rate trends for foreign currency conversion",Finance
+"Review vehicle loan payoff quote and amortization schedule",Finance
+"Flight to Delhi is booked for Monday morning",Travel
+"Renew passport at embassy before international summer trip",Travel
+"Book boutique hotel in Tokyo Shibuya for next month",Travel
+"Pack luggage with warm jackets for mountain trip",Travel
+"Apply for Schengen tourist visa and travel insurance",Travel
+"Reserve rental car at international airport terminal",Travel
+"Check airline baggage allowance and boarding pass seat",Travel
+"Research top historic sights and street food in Kyoto",Travel
+"Download offline Google Maps for European road trip",Travel
+"Exchange foreign currency at airport exchange counter",Travel
+"Book high-speed train tickets from Paris to Amsterdam",Travel
+"Confirm Airbnb host check-in instructions and key code",Travel
+"Pick up universal travel plug adapter and power bank",Travel
+"Look up subway transit pass and rail card options",Travel
+"Double check international roaming plan on phone",Travel
+"Book round-trip flight tickets to London Heathrow",Travel
+"Schedule airport shuttle taxi for early 5 AM departure",Travel
+"Pack travel toiletry kit with TSA approved liquid bottles",Travel
+"Research guided walking tour of ancient Roman colosseum",Travel
+"Print boarding passes and hotel booking vouchers",Travel
+"Check weather forecast and clothing recommendations for Swiss Alps",Travel
+"Reserve window seat on domestic connecting flight",Travel
+"Confirm passport validity has at least six months remaining",Travel
+"Book ferry crossing tickets from Athens to Santorini island",Travel
+"Visit tourist information center for city transit map",Travel
+"Buy travel compression bags for suitcase packing",Travel
+"Check terminal departure gate number on airport flight tracker",Travel
+"Book guided snorkeling tour in Hawaiian coral reef",Travel
+"Reserve budget sleeper train tickets across northern Europe",Travel
+"Confirm domestic pet boarding reservation while traveling abroad",Travel
+"Pack international driver license for driving overseas",Travel
+"Check transit requirements and visa regulations for layover",Travel
+"Book tickets for airport express shuttle train",Travel
+"Research best photography spots at sunrise in Venice",Travel
+"Download language audio phrasebook for upcoming Japan trip",Travel
+"Buy groceries this weekend",Shopping
+"Order new running shoes online with discount voucher",Shopping
+"Pick up organic milk, eggs, sourdough bread, and coffee beans",Shopping
+"Purchase replacement high-speed HDMI cable from electronics store",Shopping
+"Buy fresh vegetables and fruits at Saturday farmers market",Shopping
+"Order ergonomic wireless mechanical keyboard and mouse pad",Shopping
+"Browse winter sale for waterproof outdoor hiking jacket",Shopping
+"Buy laundry detergent, dish soap, and paper towels",Shopping
+"Order birthday gift for brother on Amazon",Shopping
+"Look for ergonomic office desk chair with lumbar support",Shopping
+"Pick up prescription skincare lotion and sunscreen at pharmacy",Shopping
+"Buy organic dog food and chew treats from pet store",Shopping
+"Order new chef knife and wooden cutting board for kitchen",Shopping
+"Purchase tickets to weekend movie screening",Shopping
+"Buy craft supplies, canvas, and acrylic paints for art project",Shopping
+"Order noise cancelling wireless headphones on Black Friday sale",Shopping
+"Buy fresh fish salmon fillets and olive oil from grocery market",Shopping
+"Purchase new cotton bedsheets and duvet cover online",Shopping
+"Pick up new light bulbs and batteries at hardware store",Shopping
+"Buy replacement water filter cartridges for Brita pitcher",Shopping
+"Order winter boots and wool socks from retail store",Shopping
+"Browse department store for ceramic coffee mugs set",Shopping
+"Buy organic shampoo, conditioner, and body wash",Shopping
+"Order wireless phone charger stand for nightstand",Shopping
+"Purchase kitchen blender for making breakfast fruit smoothies",Shopping
+"Pick up snacks, chips, and sparkling water for party",Shopping
+"Buy freshly roasted espresso beans from local cafe",Shopping
+"Order hardcover novel and bookmark from online bookstore",Shopping
+"Shop for waterproof cycling gloves and bicycle helmet",Shopping
+"Buy bathroom floor mat and soft cotton bath towels",Shopping
+"Order screen protector glass and silicone case for smartphone",Shopping
+"Purchase stainless steel thermal water bottle for gym",Shopping
+"Pick up fresh flowers and vase at florist shop",Shopping
+"Buy gift wrapping paper, ribbons, and greeting cards",Shopping
+"Order memory foam ergonomic pillow for neck support",Shopping
+"Dentist checkup appointment on Thursday 4 PM",Health
+"Take daily multivitamins and omega 3 fish oil capsule",Health
+"Annual fasting blood test scheduled for tomorrow morning",Health
+"Schedule physical therapy session for lower back pain",Health
+"Pick up allergy medication and eye drops from drugstore",Health
+"Book eye exam appointment with optometrist",Health
+"Log 45 minutes cardiovascular running session on treadmill",Health
+"Track daily water intake goal of 3 liters",Health
+"Consult dermatologist regarding skin rash consultation",Health
+"Schedule routine annual wellness checkup with primary physician",Health
+"Do 30 minutes of gentle yoga and core stretching",Health
+"Refill asthma inhaler prescription before expiration",Health
+"Check blood pressure monitor reading after morning jog",Health
+"Get seasonal flu vaccination shot at neighborhood clinic",Health
+"Rest and recover from mild cold with herbal tea and sleep",Health
+"Schedule appointment with cardiologist for heart rate checkup",Health
+"Order glucose test strips and insulin needles for diabetes management",Health
+"Take prescribed antibiotic tablets twice daily after meals",Health
+"Schedule dental cleaning and cavity filling appointment",Health
+"Attend weekly Pilates posture alignment fitness class",Health
+"Log daily calorie intake and protein macro breakdown",Health
+"Apply topical antiseptic cream on minor finger cut",Health
+"Schedule orthopedist consultation for persistent knee stiffness",Health
+"Take magnesium supplement for better sleep recovery",Health
+"Complete 10000 steps daily walking fitness challenge",Health
+"Book mental health counseling therapy session online",Health
+"Drink electrolyte hydration drink after strenuous workout",Health
+"Schedule pediatric checkup appointment for toddler",Health
+"Schedule chiropractic spinal adjustment for neck pain",Health
+"Take prescription allergy antihistamine tablet before bed",Health
+"Book deep tissue massage appointment for shoulder muscle knots",Health
+"Schedule hearing exam test with audiologist",Health
+"Log resting heart rate on smart fitness watch",Health
+"Consult gastroenterologist regarding chronic acid reflux",Health
+"Pick up prescription pain relief ointment from neighborhood chemist",Health
+"Alex's birthday party on Saturday evening at 7 PM",Events
+"Attend tech startup meetup downtown at innovation hub",Events
+"Wedding reception invitation for cousin next Saturday",Events
+"Concert tickets presale starts tomorrow at noon sharp",Events
+"RSVP to community neighborhood association annual picnic",Events
+"Buy tickets for theater comedy show next weekend",Events
+"Attend product launch keynote live stream event",Events
+"Charity gala dinner and silent auction on Friday night",Events
+"Art museum exhibition opening reception for modern paintings",Events
+"Participate in local 10k charity marathon fun run",Events
+"High school alumni reunion dinner at downtown hotel",Events
+"Join local book club discussion on Sunday afternoon",Events
+"Attend friends housewarming gathering with a house plant",Events
+"Sign up for weekend pottery workshop masterclass",Events
+"Watch live sports championship final match with colleagues",Events
+"Celebrate New Years Eve countdown party with neighbors",Events
+"Attend outdoor summer music festival in city park",Events
+"Reserve seats for standup comedy open mic showcase",Events
+"RSVP for annual corporate holiday party and dinner",Events
+"Attend local farmers fair and craft festival this Sunday",Events
+"Watch fireworks display by the waterfront harbor",Events
+"Participate in weekend hackathon project demo showcase",Events
+"Attend poetry slam reading at independent bookstore",Events
+"Celebrate sister graduation ceremony at university campus",Events
+"Join community cleanup day in the neighborhood park",Events
+"Attend live symphony orchestra classical music concert",Events
+"Buy passes for international film festival screenings",Events
+"RSVP to baby shower celebration brunch for coworker",Events
+"Attend weekend wine tasting and cheese pairing workshop",Events
+"Register for local 5k fun walk supporting animal shelter",Events
+"Watch theatrical Broadway musical performance on Saturday night",Events
+"Celebrate retirement anniversary party for senior colleague",Events
+"Attend comic and anime convention cosplay showcase",Events
+"Join neighbourhood weekend block party and potluck dinner",Events
+"Attend opening night photography exhibition in cultural gallery",Events
+"I have a meeting on Diwali",Events
+"Diwali celebration party with friends and family",Events
+"Attend neighborhood Diwali festival and fireworks",Events
+"Diwali holiday gathering and dinner with relatives",Events
+"Celebrate Christmas eve dinner and gift exchange",Events
+"New Year countdown party at downtown rooftop",Events
+"Holi festival color celebration in the community park",Events

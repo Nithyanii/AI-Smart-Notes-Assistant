@@ -1,0 +1,6 @@
+{
+  "name": "Smart Notes Assistant",
+  "description": "Intelligent note-taking application that automatically categorizes, organizes, and retrieves everyday notes using Machine Learning with TF-IDF, Logistic Regression, and uncertainty detection.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
