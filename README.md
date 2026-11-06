@@ -123,37 +123,9 @@ A note is marked uncertain (`is_uncertain = True`) if:
 In such cases, the UI displays:
 > *"Not sure about this note's category. Please select a category manually."*
 
----
 
-## 7. Step-by-Step Setup on Mac using VS Code
 
-Follow these beginner-friendly instructions to run the application on your Mac:
-
-### Step 1: Open VS Code and the Project Folder
-1. Launch **Visual Studio Code**.
-2. Go to **File → Open Folder...** and select this project directory.
-3. Open the built-in terminal by pressing ``Ctrl + ` `` (Control + Backtick) or selecting **Terminal → New Terminal** from the top menu.
-
-### Step 2: Create and Activate a Python Virtual Environment
-Run the following in the VS Code terminal:
-
-```bash
-# Create a virtual environment named .venv
-python3 -m venv .venv
-
-# Activate the virtual environment
-source .venv/bin/activate
-```
-*(Your terminal prompt will now show `(.venv)` at the beginning of the line).*
-
-### Step 3: Install Required Dependencies
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 8. How to Train the Model
+## 7. How to Train the Model
 
 To train the TF-IDF feature representation and Logistic Regression classifier on the labelled dataset:
 
